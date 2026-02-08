@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Willian
+# 👋 Olá, eu sou o Willian!
 
 Estudante de **Segurança da Informação** na **Fatec Americana "Ministro Ralph Biasi"** e Estagiário de **Cibersegurança aplicada à IA** no **CPQD**. Pesquiso a intersecção entre **segurança cibernética**, **governança de dados** e **Inteligência Artificial**, com foco em riscos emergentes e conformidade técnica.
 
@@ -23,4 +23,5 @@ Atualmente desenvolvo frameworks para **Conformidade Técnica e Governança de L
 ### 📫 Contato  
 - **Acadêmico/Profissional:** willian.brito01@fatec.sp.gov.br  
 - **Pessoal:** wst.brito@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/willian-brito/
+- **LinkedIn:** [linkedin.com/in/willian-brito](https://www.linkedin.com/in/willian-brito/)  
+- **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/3765107203567178)
