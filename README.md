@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Willian!
 
-Estudante de **Segurança da Informação** na **Fatec Americana "Ministro Ralph Biasi"** e Estagiário de **Cibersegurança aplicada à IA** no **CPQD**. Pesquiso a intersecção entre **segurança cibernética**, **governança de dados** e **Inteligência Artificial**, com foco em riscos emergentes e conformidade técnica.
+Estudante de **Segurança da Informação** na **Fatec Americana “Ministro Ralph Biasi”** e Estagiário de **Cibersegurança no Contexto de IA** no **CPQD**, com interesse na intersecção entre **segurança cibernética**, **governança de dados** e **Inteligência Artificial**, focando em riscos emergentes e conformidade técnica.
 
 ---
 
