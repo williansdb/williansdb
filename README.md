@@ -25,3 +25,4 @@ Atualmente exploro e aplico frameworks de Conformidade Técnica e Governança de
 - **Pessoal:** wst.brito@gmail.com  
 - **LinkedIn:** [linkedin.com/in/willian-brito](https://www.linkedin.com/in/willian-brito/)  
 - **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/3765107203567178)
+- **ORCID iD:** [orcid.org/0009-0005-2035-1056](https://orcid.org/0009-0005-2035-1056)
