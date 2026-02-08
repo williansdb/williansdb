@@ -4,8 +4,8 @@ Estudante de **Segurança da Informação** na **Fatec Americana “Ministro Ral
 
 ---
 
-### 🛠️ Pesquisa e Desenvolvimento  
-Atualmente desenvolvo frameworks para **Conformidade Técnica e Governança de LLMs**, com foco em:
+### 🛠️ Pesquisa e Desenvolvimento
+Atualmente exploro e aplico frameworks de Conformidade Técnica e Governança de LLMs, com foco em:
 
 - **SBOM (CycloneDX):** visibilidade e inventário da cadeia de suprimentos de software aplicada a modelos de IA.  
 - **PROV-O (Provenance Ontology):** modelagem de proveniência para garantir **irretratabilidade**, rastreabilidade e integridade em pipelines de inferência.
