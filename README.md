@@ -2,24 +2,32 @@
 
 Graduando em **Segurança da Informação** na **Fatec Americana “Ministro Ralph Biasi”**. Minha atuação concentra-se na intersecção entre **segurança cibernética, governança de dados e Inteligência Artificial Generativa (GenAI)**, com ênfase no mapeamento de riscos emergentes e adequação a *frameworks* de conformidade.
 
---->
+---
 
 ### 🛠️ Pesquisa e Desenvolvimento Independente
 Os repositórios hospedados neste perfil refletem iniciativas de pesquisa pessoal e experimentação tecnológica. Estes projetos são estritamente independentes e desvinculados das atividades, escopos ou propriedades intelectuais conduzidas em âmbito corporativo. Neste ambiente isolado, exploro a aplicação de *frameworks* de conformidade técnica e governança de LLMs, bem como a experimentação com IA Agêntica, priorizando as seguintes verticais:
 
 - **BOM (CycloneDX):** Estruturação e rastreabilidade de inventário multidomínio para ampliar a visibilidade sobre a cadeia de suprimentos de IA (*AI Supply Chain*).
 - **Conteinerização (Docker):** Empacotamento e orquestração de serviços e *workloads* por meio de Docker Compose, visando ambientes reprodutíveis e isolados. 
-- **Criptografia Pós-Quântica (PQC):** Aplicação do padrão ML-DSA-65 (*CRYSTALS-Dilithium* / FIPS 204 / NIST *Security Level* 3) na assinatura de artefatos de auditoria, estabelecendo uma camada avançada de verificação de integridade e rastreabilidade criptográfica para a cadeia de custódia de modelos de IA.
+- **Criptografia Pós-Quântica (PQC):** Aplicação de *Module-Lattice-Based Digital Signature Algorithm* **ML-DSA (CRYSTALS-Dilithium)**, padronizado pelo **NIST** no **FIPS 204**, para assinatura de artefatos de auditoria, estabelecendo uma camada criptográfica para verificação de integridade e rastreabilidade na cadeia de custódia de modelos de IA.
 - **IA Soberana (*On-premise*):** Experimentação com modelos fundacionais de pesos abertos (*open-weight models*) em ambientes locais e isolados, priorizando a execução de *workloads* de IA sem exposição de dados confidenciais a serviços externos.
 
---->
-### 🔬 Projeto em Destaque
+---
+## 🔬 Projetos em Destaque
 
-**[Rastreabilidade Operacional em Modelos Fundacionais Open-Weights](https://github.com/williansdb/tcc_ai_governance_llms)** · *TCC / Pesquisa Experimental*
+**[BOMSenso](https://github.com/williansdb/bomsenso)** · *Framework* Experimental (PoC)
 
-Integração de **BOMs multicamadas (SBOM, ML-BOM e HBOM), VEX, telemetria de inferência e custódia pós-quântica (ML-DSA-65/FIPS 204)** para produção de evidências técnicas destinadas à auditoria e rastreabilidade de modelos de IA.
+*Framework* experimental para **governança técnica, rastreabilidade e atestação de segurança em sistemas de IA**. Executado em uma arquitetura com **Docker Compose e dois contêineres**, `Ollama` e `Jupyter`, implementa um **comitê multiagente** para análise de artefatos gerados pelas ferramentas da **OWASP**, *CycloneDX Generator* (`cdxgen 13.0.1`) e `dep-scan 6.3.0`, abrangendo `AIBOM`, `CBOM`, `HBOM`, `OBOM`, `SaaSBOM` e `SBOM`, além da geração e análise de **Vulnerability Disclosure Reports (VDR)**.
 
---->
+A indexação semântica é realizada com **LazyGraphRAG** e a orquestração com o ecossistema **LangChain**. A cadeia de custódia dos inventários é complementada por **atestação criptográfica pós-quântica com ML-DSA (FIPS 204)**, utilizando `liboqs 0.16.0`.
+
+
+
+**[Rastreabilidade Operacional em Modelos Fundacionais Open-Weights](https://github.com/williansdb/tcc_ai_governance_llms) · TCC / Pesquisa**
+
+Pesquisa focada na integração estrutural de BOMs multicamadas (`SBOM`, `ML-BOM` e `HBOM`), `VEX` e telemetria de inferência. Propõe um modelo de custódia de metadados chancelado por criptografia pós-quântica (`ML-DSA-65` via `liboqs 0.15.0`) para viabilizar auditorias técnicas e rastreabilidade na cadeia de suprimentos de IA.
+
+---
 ### 💻 Stack Técnica
 
 - **Python:** Automação de processos de segurança e auditoria, processamento de *logs* estruturados e desenvolvimento de *scripts* para experimentação. Uso de *Jupyter Notebooks* na implementação e documentação de Provas de Conceito (PoC).
